@@ -1,7 +1,7 @@
 # todo: make commands take in more than just the first token. "kai n" only takes in "kai"
 # 10/7/2025
 
-roster_path = 'p2 roster.txt'
+roster_path = 'p5 roster.txt'
 funny_number = 'six seven'
 generate_commands = ['generate', 'output', 'cheese', 'hi anuraag', '67', ':)', ':(']
 name_width = 32
