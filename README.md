@@ -1,7 +1,7 @@
 # hi anuraag
 `pch-grader` is a utilitarian enterprise I have instituted and adapted in order to facilitate the grueling and laborious drudgery of inscribing credits earned by the fellow apprentices of Mrs. Jaehnig.  It is a pinnacle of computational engineering, serving as a robust and efficacious instrument that fulfills the gratifying human necessity to automate perfunctory undertakings.
 
-Okay, but really, it's a Python program that stores students' individual scores on assignments and can output them in a format that's easy to transcribe to the gradebook.
+Okay, but really, it's a Python program that stores students' scores on assignments and can output them in a format that's easy to transcribe to the gradebook.
 
 ## How to Use
 1. Set the correct period roster in the first line of `grader3.py`.
@@ -17,10 +17,10 @@ Okay, but really, it's a Python program that stores students' individual scores 
 
  ## Grading multiple assignments at a time
  - The program stores only one score per student, meaning you need to rerun it for each individual assignment.
- - An easy workaround for this is to have a separate text file tracking each assignment, and run it separately / collect the output for each input file.
+ - An easy workaround for this is to have a different text file listing the scores of each assignment, and run the program separately / collect the output using each text file as input.
    - Make sure your multi-line command ends with a newline, or else the last line won't register.
 
-Message me (Discord: ```thegrapeape22```) if you have further questions.
+Message me (Discord: ```@thegrapeape22```) if you have further questions.
 
 No AI or Large Language Models were used in creating any part of this project.
 #### written with pycharm
