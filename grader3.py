@@ -1,7 +1,16 @@
 # todo: make commands take in more than just the first token. "kai n" only takes in "kai"
 # 10/7/2025
 
-roster_path = 'p5 roster.txt'
+print('wassup')
+
+# get correct roster file by period
+period = ''
+periods = ['1', '2', '4', '5']
+period = input('enter period: ')
+while period not in periods:
+    period = input('not found. possible periods include ' + str(periods) + '. enter period: ')
+
+roster_path = 'p%s roster.txt' % period
 funny_number = 'six seven'
 generate_commands = ['generate', 'output', 'cheese', 'hi anuraag', '67', ':)', ':(']
 name_width = 32
@@ -56,8 +65,6 @@ def parse_grade(command):
         raise Exception("multiple students found:\n " + '\n '.join(names))
 
     grade(search_results[0], tokens[1] if len(tokens) > 1 else '5')
-
-print('hi anuraag')
 
 while True:
     try:
