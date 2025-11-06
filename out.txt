@@ -1,1 +1,36 @@
-this is the output file :P
+Name                            Score
+Badriprasad, Aditi              -
+Cao, Benjamin W                 4
+Choi, Jacob J                   5
+Dong, Jake                      4.75
+Goyal, Anvi                     4.5
+Han, Juyoung                    4
+Hayaat, Ruhee                   5
+Hong, Sean S                    5
+Hu, Katie G                     5
+Hyun, Julia J                   -
+Jamalzade, Attila E             -
+Lee, Catherine                  5
+Lee, Ethan                      4.5
+Lee, Seojin                     5
+Lim, Jay (seokjin)              5
+Liu, Max (yuelin)               4
+Nagashima, Kai                  4
+Patti, Abhinav G                5
+Rao, Vanditha S                 5
+Sayyed, Alviya A                5
+Shou, Hanyun                    5
+Sui, Jayden                     -
+Tan, Aubree                     5
+Tay, Lydia L                    5
+Thathachari, Nandini            -
+Tom, Evelyn F                   4.75
+Tomar, Mihir                    5
+Tong, Renee E                   -
+Vaughn, Zac                     5
+Vellamcheti, Rohan              5
+Wang, Colin H                   -
+Zhang, Brian Z                  5
+Zhao, Michael (bokun)           4
+Zhong, Kairan                   4.5
+
