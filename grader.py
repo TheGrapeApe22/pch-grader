@@ -10,7 +10,7 @@ period = input('enter period: ')
 while period not in periods:
     period = input('not found. possible periods include ' + str(periods) + '. enter period: ')
 
-roster_path = 'p%s roster.txt' % period
+roster_path = 'rosters/p%s roster.txt' % period
 funny_number = 'six seven'
 generate_commands = ['generate', 'output', 'cheese', 'hi anuraag', '67', ':)', ':(']
 name_width = 32
